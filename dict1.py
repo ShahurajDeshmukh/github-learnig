@@ -7,4 +7,7 @@ dict_1 = {
 
 }
 dict_1["Education"] = "b.tech"
+
+dict_1.pop("city")
+dict_1.pop("Education")
 print(dict_1)
