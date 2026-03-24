@@ -6,4 +6,5 @@ dict_1 = {
     'course':'DE'
 
 }
+dict_1["Education"] = "b.tech"
 print(dict_1)
